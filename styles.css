@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.partone {
+    background-color: #1F2937;
+}
+.header {
+    display: flex;
+    list-style-type: none;
+    color: white;
+    justify-content: space-around;
+    margin-bottom: 0px;
+}
+.intro {
+    color: white;
+    display: flex;
+    margin: 100px;
+    list-style-type:none ;
+}
+.parttwo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+.info {
+    list-style-type: none;
+    display: flex;
+    
+}
+.illus {
+    display: flex;
+    justify-content: center; 
+    margin-bottom: 80px;
+}
+.test {
+    background-color: rgb(219, 217, 217);
+    display: flex;
+    justify-content: center;
+}
